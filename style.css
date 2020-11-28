@@ -225,7 +225,7 @@ form.sign-up-form {
 
 .right-panel .content,
 .right-panel .image {
-    transform: translateX(800px);
+    transform: translateX(1000px);
 }
 
 /* Animation */
